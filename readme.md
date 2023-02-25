@@ -11,7 +11,7 @@ Allow a user to enter and save the event in local storage when the save button i
 ## Screenshot
 The following shows the web applications mock up appearance I used to guide my current portfolio:
 
-![Web screenshot](images\05-third-party-apis-homework-demo.gif)
+![Web screenshot](./images/05-third-party-apis-homework-demo.gif)
 
 
 ## Project Link
