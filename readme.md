@@ -16,7 +16,7 @@ The following shows the web applications mock up appearance I used to guide my c
 
 ## Project Link
 Application can can be viewed here: 
-* [Live](a)
+* [Live](https://tahminahannan.github.io/Daily-planner-app/)
 
 * [Repository](https://github.com/TahminaHannan/Daily-Planner-App)
 
